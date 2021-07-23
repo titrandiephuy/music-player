@@ -510,7 +510,6 @@ width:  100%;
  
 .player {
     position: relative;
-    max-width: 1200px;
     height: 725px;
     margin: 20px;
     display: flex;
